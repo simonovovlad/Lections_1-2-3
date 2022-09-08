@@ -35,17 +35,6 @@ Git - одна из реализаций распределённых систе
 
 <img width="491" alt="git_diff" src="https://user-images.githubusercontent.com/112642610/188758606-368da1bc-8f94-4236-98a9-bd27282df4ce.PNG">
 
-* **git branch**   Показывает какие есть ветки в репозитоии и на какой ветке мы сейчас находимся.
-
-* **git branch new_branch_name** Создает новую ветку с именем new_branch_name
-
-* **git branch -d branch_to_delete** Удаляет ветку с именем branch_to_delete
-
-* **git checkout branch_name** Переходит на ветку branch_name. 
-
-* **git log –graph** Выводит список коммитов в виде графа/дерева.
-
-* **git merge branch_name** Производит слияние ветки branch_name с текущей веткой.
 
 * Git отслеживает файлы по имени! 
 Если изменить имя файла, необходимо добавить файл с новый именем + git commit
