@@ -140,6 +140,6 @@ Markdown | не такой | красивый
 
 Можно добавить изображение из локального репозитория.
 Вот так: 
-![Привет! Это Корги!](![Korgi](https://user-images.githubusercontent.com/112642610/189539915-48b422a8-ab72-4184-996b-a2ee15959a64.jpg))
+![Привет! Это Корги!][Korgi](https://user-images.githubusercontent.com/112642610/189539915-48b422a8-ab72-4184-996b-a2ee15959a64.jpg)
 
 
